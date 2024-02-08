@@ -20,6 +20,7 @@
 AddEventHandler("tp_collectible_herbs:onLootableHerbCollect", function(compositeHashId)
     -- todo for developers only.
 end)
+```
 
 ### The following event is triggered and used client side on custom herb pickups.
 
