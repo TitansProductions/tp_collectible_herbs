@@ -12,9 +12,9 @@
 
 # Developers
 
-```lua
-
 ### The following event is triggered and used client side.
+
+```lua
 -- @param compositeHashId : returns the collected composite hash id (lootable), checkout Config.LootableRewards (CONFIG.LUA) or Composites.LootableList (COMPOSITES_LIST.LUA)
 AddEventHandler("tp_collectible_herbs:onLootableHerbCollect", function(compositeHashId)
     -- todo for developers only.
