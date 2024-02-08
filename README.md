@@ -1,4 +1,4 @@
-# TPZ-CORE Doorlocks
+# TPZ-CORE Collectible Herbs
 
 ## Requirements
 
